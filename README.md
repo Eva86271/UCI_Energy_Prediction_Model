@@ -5,6 +5,7 @@ various factors of impact like Temperature and Relative Humidity of internal env
 Visibility of external environment and develop models for prediction for energy use. The problem comes under
 regression analysis and hence regression models will be constructed.
 
+![Correlation Analysis](https://github.com/Eva86271/UCI_Energy_Prediction_Model/blob/main/images_UCI/output_11_0.png)
 
 Based on DateTime indexing that was performed on the dataset for time series analysis, more features like Hours,
 Minutes, Day of the Year, Day of the Week, Year, and Month were constructed from data and added to it, in order to
